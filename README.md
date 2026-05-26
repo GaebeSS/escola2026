@@ -12,3 +12,10 @@ index.php
 sobre.php
 contato.php
 midias.php
+
+no cmd: GIT CLONE 
+no terminal da página:
+GIT ADD,
+GIT STATUS,
+GIT COMMIT -M("descrição da alteração"),
+GIT PUSH
