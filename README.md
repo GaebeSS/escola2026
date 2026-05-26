@@ -13,9 +13,12 @@ sobre.php
 contato.php
 midias.php
 
-no cmd: GIT CLONE 
-no terminal da página:
-GIT ADD,
-GIT STATUS,
-GIT COMMIT -M("descrição da alteração"),
-GIT PUSH
+REPOSITÓRIO
+git clone https://github.com/GaebeSS/escola2026.git
+cd escola2026
+git init,
+git status mostra o index.php na cor vermelha,
+git add index.php,
+git status mostra index.php na cor verde,
+git commit -m("cria o index.php"),
+git push
